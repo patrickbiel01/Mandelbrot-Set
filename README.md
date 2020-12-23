@@ -1,6 +1,6 @@
 # Mandelbrot-Set
 A web-based interactive Mandelbrot Set
-<br/>[Click to Use](http://www.patrickbiel.com/Mandelbrot-Set/)
+<br/>[Click to Use](http://patrickbiel.com/Mandelbrot-Set/)
 
 ## Features:
   * Ability to zoom in and out
